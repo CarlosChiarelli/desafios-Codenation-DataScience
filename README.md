@@ -6,3 +6,4 @@ Cada pasta contém um desafio, com o **enunciado** em README e a **solução** e
 
 Todo desenvolvimento foi feito em ambiente **Windows 10** utilizando **Python 3**.
 
+adicionado hehe
